@@ -13,6 +13,6 @@
 
 2.拷贝ALC256.kext到kexts目录
 
-3.配置文件Config.plist里面将音频ID改为69（整数）
+3.配置文件Config.plist里面将音频ID改为69（十进制）
 
 此驱动根据最新的AppleALC，修改思路来源于此处：https://github.com/ic005k/DELL7472/issues/47  ，对所有的贡献者一并表示感谢！
